@@ -17,8 +17,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-jdflixwjju)
-- [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-NFT-Preview-Card-Component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-ttQtq27nIL)
+- [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-Interactive-rating-component/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
